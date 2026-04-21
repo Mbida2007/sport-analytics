@@ -1,6 +1,6 @@
 streamlit==1.32.0
 pandas==2.2.0
-matplotlib3.8.0
-seaborn0.13.2
-numpy1.26.0
-openyxl3.1.5
+matplotlib==3.8.0
+seaborn==0.13.2
+numpy==1.26.0
+openyx==l3.1.5
